@@ -4,7 +4,7 @@ info:
   version: '1.0'
   description: Especificação da API da aplicação Apollo. Para esse documento entende-se cliente/customer como aquele usuário que consome os serviços ofertados na aplicação e profissional/professional como aquele usuário que oferta seus serviços na plataforma
 servers:
-  - url: apollo-api-unifor.herokuapp.com/
+  - url: http://apollo-api-unifor.herokuapp.com/
 tags:
   - name: customer
     description: Tudo relacionado aos clientes
